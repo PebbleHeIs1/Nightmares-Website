@@ -74,7 +74,7 @@ function PlasmicCopyableLink__RenderFunc(props) {
           className={classNames(projectcss.all, sty.freeBox)}
         >
           {p.renderPlasmicSlot({
-            defaultContents: "careers@narative.co",
+            defaultContents: "help@cracked4u.icu",
             value: args.children,
             className: classNames(sty.slotTargetChildren)
           })}
