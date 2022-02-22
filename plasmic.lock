@@ -1,0 +1,79 @@
+{
+  "projects": [
+    {
+      "projectId": "4GFKm1JjDZWGyX7FsMAVce",
+      "version": "latest",
+      "dependencies": {},
+      "lang": "js",
+      "fileLocks": [
+        {
+          "type": "globalVariant",
+          "assetId": "wdML72S9OxtFQ",
+          "checksum": "912a19c393ae2fe2c9beb1abce260a62"
+        },
+        {
+          "assetId": "4GFKm1JjDZWGyX7FsMAVce",
+          "type": "projectCss",
+          "checksum": "0725146d8a7f1a814545d86d481662f9"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "jK7reGsVH7V3C",
+          "checksum": "565d557676109690cbe7244dfcd151cb"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "jK7reGsVH7V3C",
+          "checksum": "565d557676109690cbe7244dfcd151cb"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "jyb-xE-cUhxSx",
+          "checksum": "06c792689af07295005f21e7397831ce"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "jyb-xE-cUhxSx",
+          "checksum": "06c792689af07295005f21e7397831ce"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "r2g7-8qXxm_",
+          "checksum": "1de668ccf42ed320974548780bbac749"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "r2g7-8qXxm_",
+          "checksum": "1de668ccf42ed320974548780bbac749"
+        },
+        {
+          "type": "icon",
+          "assetId": "4OAAqkOOUwL_R",
+          "checksum": "deb62f426056597a7b5a65f588c31072"
+        },
+        {
+          "type": "icon",
+          "assetId": "fkZsMtpJEFG8c",
+          "checksum": "514e9010db8d6b3e80c9e32475162712"
+        },
+        {
+          "type": "icon",
+          "assetId": "h698-VZARzBGa",
+          "checksum": "73cbc0b84fb5cc237d0b6c13138ae426"
+        },
+        {
+          "type": "icon",
+          "assetId": "WVWBJI8hsMU",
+          "checksum": "20b8900e35e9d4621cec13960a4ac761"
+        },
+        {
+          "type": "icon",
+          "assetId": "Sgosjnnkft9",
+          "checksum": "e1161fca0edc8bc697ba5c20167b9cab"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    }
+  ],
+  "cliVersion": "0.1.171"
+}
